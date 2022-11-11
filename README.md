@@ -3,4 +3,4 @@ Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected
 
 We are developing Covalent API Endpoints, one for fetching the total counter, user details and time stamp and the other for the token_ids of user ratings.
 
-RockX: We are learning to use RockX Access Node API to deploy and query on the Cronos Mainnet. We are still at the testnet stage.
+
