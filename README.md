@@ -38,6 +38,21 @@ Learning Anytime Anywhere:  Physics relate to everyday life. Interactive way of 
 
 Mass Reach: Web3 Play Physics is simple app which with the help of connected WRLDS ball, mobile phone and Web3 solutions powered by BNB, Cobvalent and Multi-chain can give real-time experience to various laws in physics like law of motion, energy, force and other key topics of Kinematics.
 
+Details:
+
+1. Covalent API endpoint: There 5 endpoint API that currently used on the Web3 Play Physics dashboard.
+
+Get Block Height - to convert timestamp to block id
+Get Log Events By Contract Address - to get log events like sold/listed nft/items on marketplace
+Get Log Events By Topics - to get log data for spesific event like sold/listed events on marketplace
+Get Historical Token Prices - to get price of token in usd for currency that accept to buy nft/item on marketplace like $TUS, $BNB and $BCOIN
+Get Nft External Metadata - to get metadata for nft like the attributes and image
+
+Github link: please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Game-Dashboard-Covalent-BSC/gamefi-dashboard 
+
+We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping Binance marketplace into focus.
+
+
 
 
 
