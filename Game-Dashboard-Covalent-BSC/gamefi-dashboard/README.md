@@ -4,7 +4,6 @@ Currently there are 3 game marketplaces that includes on this dashboard:
 2. Crabada Marketplace (Avalanche)
 3. Elfin Marketplace (BSC)
 
-link : [https://gamefi-dashboard.vercel.app/](https://gamefi-dashboard.vercel.app/)
 
 ## Tools & Resources
 
