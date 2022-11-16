@@ -43,16 +43,24 @@ Details:
 1. Covalent API endpoint: There 5 endpoint API that currently used on the Web3 Play Physics dashboard.
 
 Get Block Height - to convert timestamp to block id
+
 Get Log Events By Contract Address - to get log events like sold/listed nft/items on marketplace
+
 Get Log Events By Topics - to get log data for spesific event like sold/listed events on marketplace
+
 Get Historical Token Prices - to get price of token in usd for currency that accept to buy nft/item on marketplace like $TUS, $BNB and $BCOIN
+
 Get Nft External Metadata - to get metadata for nft like the attributes and image
 
 Github link: please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Game-Dashboard-Covalent-BSC/gamefi-dashboard 
 
+Covalent-NFT-Dashboard enables us to analyze, observe all NFTs from wallet address in different networks. 
+
 We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping Binance marketplace into focus.
 
 2. Binance: Binance smart contracts for light client are implemented. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/BSC-Smart-Contract-Light-Implement. The 2 marketplaces that we wish to focus to analyze the total volumes of the game played are Bombcrypto Marketplace (BSC) and Elfin Marketplace (BSC).
+
+3. MultiChain: MultiChain Webapp integration with SocialCalc for analysis, tabulation, graphing, charting and visualization. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Game-Dashboard-Covalent-BSC/multichain-web-app
 
 
 
