@@ -52,7 +52,7 @@ Github link: please visit https://github.com/seetadev/Web3-Play-Physics/tree/mai
 
 We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping Binance marketplace into focus.
 
-
+2. Binance: Binance smart contracts for light client are implemented. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/BSC-Smart-Contract-Light-Implement. The 2 marketplaces that we wish to focus to analyze the total volumes of the game played are Bombcrypto Marketplace (BSC) and Elfin Marketplace (BSC).
 
 
 
