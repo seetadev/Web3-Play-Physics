@@ -1,6 +1,4 @@
-## Intro
-
-Gamefi-dashboard is a dashboard that show total volumes of game marketplace like how many items that sold on the marketplace and etc.
+Web3 Play Physics dashboard is a dashboard that show total volumes of game marketplace like how many items that sold on the marketplace and etc.
 Currently there are 3 game marketplaces that includes on this dashboard:
 1. Bombcrypto Marketplace (BSC)
 2. Crabada Marketplace (Avalanche)
@@ -31,13 +29,5 @@ There 5 endpoint API that currently used on this dashboard
 2. `` yarn or npm install ``
 3. add .env.local on the root folder of projects with key value ``NEXT_PUBLIC_API_KEY=YOUR_COVALENT_API_KEY``
 4. `` npm run dev ``
-
-## Sneak Peek
-
-<img width="1664" alt="Screenshot 2022-03-25 at 06 05 42" src="https://user-images.githubusercontent.com/26589426/160041761-24d2c803-e0e2-4dd9-967e-b23f99e64dbd.png">
-
-<img width="1671" alt="Screenshot 2022-03-24 at 19 19 24" src="https://user-images.githubusercontent.com/26589426/160041783-0862f667-588a-46fd-9b4a-051ad17adefa.png">
-
-<img width="1658" alt="Screenshot 2022-03-25 at 06 07 30" src="https://user-images.githubusercontent.com/26589426/160041795-000b6cdb-6c06-4e50-9ee7-4fab2c975f99.png">
 
 
