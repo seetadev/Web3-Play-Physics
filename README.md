@@ -1,6 +1,8 @@
 # Web3-Play-Physics
 Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app and Web3 eco-system tools powered by Moralis, BNB, Covalent and Multichain.
 
+Website: https://sites.google.com/view/play-physics-with-wrlds
+
 We are developing Covalent API Endpoints, one for fetching the total counter, user details and time stamp and the other for the token_ids of user ratings.
 
 About: Physical world game simulator, playground -- you can add geometrical shapes, or draw your own shapes, do educational experiments, learn using the WRLDS iot connected balls, mobile SDKs, BNB, Covalent endpoints and Multi-chain messaging protocol, and see them come to life with forces (think gravity, Newton!), friction (scrrrrape), and inertia (ahh, slow down!).
@@ -8,16 +10,26 @@ About: Physical world game simulator, playground -- you can add geometrical shap
 Tools and Tech
 
 Moralis
+
+Chainlink VRF
+
 BNB Blockchain
+
 NFT.storage
+
 Covalent and IPFS
+
 Multi-Chain messaging protocol
+
 Machine Learning
+
 Data Analytics
+
 Encryption
+
 Web3 Cloud Computing
 
-Website: https://sites.google.com/view/play-physics-with-wrlds
+
 
 Moralis Deployment URL: https://1li2klwerizr.usemoralis.com:2053/server (to be deployed to moralis)
 
