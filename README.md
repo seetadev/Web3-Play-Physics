@@ -1,5 +1,5 @@
 # Web3-Play-Physics
-Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app and Web3 eco-system tools powered by Moralis, BNB, Covalent and Multichain.
+Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app and Web3 eco-system tools powered by Chainlink VRF, Moralis, BNB, Covalent and Multichain.
 
 Website: https://sites.google.com/view/play-physics-with-wrlds
 
