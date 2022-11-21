@@ -8,7 +8,7 @@ The Guest Book is a simple app that stores messages from users, allowing to pay 
 ![](https://docs.near.org/assets/images/guest-book-b305a87a35cbef2b632ebe289d44f7b2.png)
 
 
-# What This Example Shows
+# Steps
 
 1. How to receive $NEAR on a contract.
 2. How to store and retrieve information from the blockchain.
