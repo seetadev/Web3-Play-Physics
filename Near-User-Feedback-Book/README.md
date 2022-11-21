@@ -1,9 +1,6 @@
-# Guest Book 📖 
-[![](https://img.shields.io/badge/⋈%20Examples-Basics-green)](https://docs.near.org/tutorials/welcome)
-[![](https://img.shields.io/badge/Gitpod-Ready-orange)](https://gitpod.io/#/https://github.com/near-examples/guest-book-js)
-[![](https://img.shields.io/badge/Contract-js-yellow)](https://docs.near.org/develop/contracts/anatomy)
-[![](https://img.shields.io/badge/Frontend-React-blue)](https://docs.near.org/develop/integrate/frontend)
-[![](https://img.shields.io/badge/Testing-passing-green)](https://docs.near.org/develop/integrate/frontend)
+# Students Feedback Book for Physics Educators and Us 📖 
+
+We are extending and improving the guest book application to receive students feedback, stores feature requests from both students and Physics educators on the use cases to cover. Further, the app will enable the educators and students a method to pay or donate for a customized version of the Play Physics app to open source volunteers and contributors in order to sustain the game development project. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Near-User-Feedback-Book
 
 
 The Guest Book is a simple app that stores messages from users, allowing to pay for a premium message.
@@ -47,9 +44,3 @@ Start the web application to interact with your smart contract
 ```bash
 npm start
 ```
-
----
-
-# Learn More
-1. Learn more about the contract through its [README](./contract/README.md).
-2. Check [**our documentation**](https://docs.near.org/develop/welcome).
