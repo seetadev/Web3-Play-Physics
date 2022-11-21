@@ -1,5 +1,5 @@
 # Web3-Play-Physics
-Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app and Web3 eco-system tools powered by Chainlink VRF, Moralis, BNB, Covalent and Multichain.
+Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app and Web3 eco-system tools powered by Chainlink VRF, Moralis, BNB, Covalent, Multichain and Near Protocol.
 
 Website: https://sites.google.com/view/play-physics-with-wrlds
 
@@ -22,6 +22,8 @@ Covalent and IPFS
 Multi-Chain messaging protocol
 
 Rearc's Mediawiki API powered by AWS Data Exchange
+
+Near Protocol
 
 Machine Learning
 
@@ -79,6 +81,8 @@ We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping
 2. Binance: Binance smart contracts for light client are implemented. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/BSC-Smart-Contract-Light-Implement. The 2 marketplaces that we wish to focus to analyze the total volumes of the game played are Bombcrypto Marketplace (BSC) and Elfin Marketplace (BSC).
 
 3. MultiChain: MultiChain Webapp integration with SocialCalc for analysis, tabulation, graphing, charting and visualization. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Game-Dashboard-Covalent-BSC/multichain-web-app
+
+4. Near: We are developing a user feedback app to stores feature requests from users, allowing to pay for a customized version of the Play Physics app. Please visit
 
 # Steps to Run the game
 
