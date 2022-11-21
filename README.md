@@ -82,7 +82,8 @@ We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping
 
 3. MultiChain: MultiChain Webapp integration with SocialCalc for analysis, tabulation, graphing, charting and visualization. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Game-Dashboard-Covalent-BSC/multichain-web-app
 
-4. Near: We are developing a user feedback app to stores feature requests from users, allowing to pay for a customized version of the Play Physics app. Please visit
+4. Near: We are extending and improving the guest book application to receive students feedback, stores feature requests from both students and Physics educators on the Physics use cases to cover so that they could use the app more productively at the classroom. Further, the app will enable the educators and students a method to pay or donate using Near supported wallet for a customized version of the Play Physics app to open source volunteers and contributors in order to sustain the game development project. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Near-User-Feedback-Book
+
 
 # Steps to Run the game
 
