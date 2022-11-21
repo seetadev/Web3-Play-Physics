@@ -21,6 +21,8 @@ Covalent and IPFS
 
 Multi-Chain messaging protocol
 
+Rearc's Mediawiki API powered by AWS Data Exchange
+
 Machine Learning
 
 Data Analytics
@@ -29,6 +31,10 @@ Encryption
 
 Web3 Cloud Computing
 
+
+Rearc's Mediawiki API powered by AWS API Gateway: Rearc Mediawiki API served via Amazon Web Services API gateway: The MediaWiki Action API is a web service that allows access to Wiki search for Kinematics (Physics) related content served in the android application. It can provide information about Physics related concepts like Newtons Law of Forces, gravitation, rotational dynamics, acceleration, free body diagrams etc.
+
+For educators' creating content on Mediawiki, Rearc Mediawiki API enables us to fetch wiki features like authentication, page operations by Physics educator and meta information about the wiki and the logged-in students per classroom and Physics educator (editor role).
 
 
 Moralis Deployment URL: https://1li2klwerizr.usemoralis.com:2053/server (to be deployed to moralis)
@@ -73,6 +79,27 @@ We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping
 2. Binance: Binance smart contracts for light client are implemented. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/BSC-Smart-Contract-Light-Implement. The 2 marketplaces that we wish to focus to analyze the total volumes of the game played are Bombcrypto Marketplace (BSC) and Elfin Marketplace (BSC).
 
 3. MultiChain: MultiChain Webapp integration with SocialCalc for analysis, tabulation, graphing, charting and visualization. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Game-Dashboard-Covalent-BSC/multichain-web-app
+
+# Steps to Run the game
+
+1. Clone the repository: https://github.com/seetadev/Web3-Play-Physics and cd to the directory; cd to WRLDS ball (https://github.com/seetadev/Web3-Play-Physics/tree/main/Wrlds-Ball)
+
+2. Install Android Studio and use subscribe to Rearc API using an AWS account. The AWS account used by us is aspiring.investments@gmail.com.
+3. Use the reference aws get mediawiki requests for creating your custom json request if needed and compile the application using Android studio: 
+
+aws dataexchange send-api-asset \
+  --data-set-id [REPLACE_ME] \
+  --revision-id  [REPLACE_ME] \
+  --asset-id  [REPLACE_ME] \
+  --method GET \
+  --path "/api.php?action=parse&page=Project:Sandbox&format=json" \
+
+4. Compile and build the application using ant commands "http://tools.android.com/tech-docs/ant-build-script"
+
+5. Run the apk in your android device.
+
+
+
 
 
 
