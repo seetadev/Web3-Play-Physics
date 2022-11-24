@@ -66,7 +66,7 @@ Get Block Height - to convert timestamp to block id
 
 Get Log Events By Contract Address - to get log events like sold/listed nft/items on marketplace
 
-Get Log Events By Topics - to get log data for spesific event like sold/listed events on marketplace
+Get Log Events By Topics - to get log data for specific event like sold/listed events on marketplace
 
 Get Historical Token Prices - to get price of token in usd for currency that accept to buy nft/item on marketplace like $TUS, $BNB and $BCOIN
 
