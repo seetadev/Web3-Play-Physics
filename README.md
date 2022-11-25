@@ -84,6 +84,8 @@ We are extending and adapting the gamefi dashboard for Web3 Play Physics keeping
 
 4. Near: We are extending and improving the guest book application to receive students feedback, stores feature requests from both students and Physics educators on the Physics use cases to cover so that they could use the app more productively at the classroom. Further, the app will enable the educators and students a method to pay or donate using Near supported wallet for a customized version of the Play Physics app to open source volunteers and contributors in order to sustain the game development project. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Near-User-Feedback-Book
 
+5. Chainlink VRF:  We utilized Chainlink VRF (Verifiable Random Function) to enable provably fair and verifiable random number generator (RNG) that further enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified on-chain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, users, or smart contract developers. At this juncture, we are planning to use only subscription supported network for Chainlink VRF.
+
 
 # Steps to Run the game
 
