@@ -1,5 +1,15 @@
 # Web3-Play-Physics
-Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app and Web3 eco-system tools powered by Chainlink VRF, Moralis, BNB, Covalent, Multichain and Near Protocol.
+Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app, Aleo and XDC blockchain and Web3 eco-system tools.
+
+Features
+
+Multi Player Game: Interactive and easy way to learn physics. Real-time experience to teach kids various laws of motion, sound waves, or light. Physics is everywhere!
+
+Learning Together: Games and the activities are designed to involve children in different team buildling activities. WRLDS iot ball makes learning and fun lot more easier.
+
+Fun with Physics: Physics explains how things move and how different kinds of energy can affect these things. Once someone understands the rules of physics, it’s possible to understand how the whole universe works! 
+
+We are using Aleo SDKs (Software Development Kit (SDK) for Zero-Knowledge Transactions) and Aleo high-level utilities in javascript to handle Accounts and Node connections in the browser (Aleo.js).
 
 Website: https://sites.google.com/view/play-physics-with-wrlds
 
@@ -8,6 +18,10 @@ We are developing Covalent API Endpoints, one for fetching the total counter, us
 About: Physical world game simulator, playground -- you can add geometrical shapes, or draw your own shapes, do educational experiments, learn using the WRLDS iot connected balls, mobile SDKs, BNB, Covalent endpoints and Multi-chain messaging protocol, and see them come to life with forces (think gravity, Newton!), friction (scrrrrape), and inertia (ahh, slow down!).
 
 Tools and Tech
+
+Alexo blockchain: Aleo SDk and Aleo.js
+
+We are using Aleo SDKs (Software Development Kit (SDK) for Zero-Knowledge Transactions) and Aleo high-level utilities in javascript to handle Accounts and Node connections in the browser (Aleo.js).
 
 Moralis
 
@@ -42,14 +56,6 @@ For educators' creating content on Mediawiki, Rearc Mediawiki API enables us to 
 Moralis Deployment URL: https://1li2klwerizr.usemoralis.com:2053/server (to be deployed to moralis)
 
 Moralis Transaction Dashboard: We are developing an aggregated dashboard for all transfers and transactions using Moralis boilerplate as a reference. 
-
-Features
-
-Multi Player Game: Interactive and easy way to learn physics. Real-time experience to teach kids various laws of motion, sound waves, or light. Physics is everywhere!
-
-Learning Together: Games and the activities are designed to involve children in different team buildling activities. WRLDS iot ball makes learning and fun lot more easier.
-
-Fun with Physics: Physics explains how things move and how different kinds of energy can affect these things. Once someone understands the rules of physics, it’s possible to understand how the whole universe works! 
 
 
 Impact
