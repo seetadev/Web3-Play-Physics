@@ -1,5 +1,5 @@
 # Web3-Play-Physics
-Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app, Aleo and XDC blockchain and Web3 eco-system tools.
+Learn Kinematics in a fun and an engaging manner using WRLDS iot ball, connected android app, Waves blockchain and Web3 eco-system tools.
 
 Features
 
@@ -9,7 +9,6 @@ Learning Together: Games and the activities are designed to involve children in 
 
 Fun with Physics: Physics explains how things move and how different kinds of energy can affect these things. Once someone understands the rules of physics, it’s possible to understand how the whole universe works! 
 
-We are using Aleo SDKs (Software Development Kit (SDK) for Zero-Knowledge Transactions) and Aleo high-level utilities in javascript to handle Accounts and Node connections in the browser (Aleo.js).
 
 Website: https://sites.google.com/view/play-physics-with-wrlds
 
@@ -19,9 +18,8 @@ About: Physical world game simulator, playground -- you can add geometrical shap
 
 Tools and Tech
 
-Alexo blockchain: Aleo SDk and Aleo.js
+Waves blockchain and Rider Smart Contracts
 
-We are using Aleo SDKs (Software Development Kit (SDK) for Zero-Knowledge Transactions) and Aleo high-level utilities in javascript to handle Accounts and Node connections in the browser (Aleo.js).
 
 Moralis
 
