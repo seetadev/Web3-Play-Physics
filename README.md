@@ -14,6 +14,8 @@ Website: https://sites.google.com/view/play-physics-with-wrlds
 
 Waves Blockchain: We are syncing Waves Blockchain data with postgresql database. It stores all the key activities, which is used to generate the leaderboard using Waves Analytics Tooling. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Waves-blockchain-postgres-sync/blockchain-postgres-sync-module
 
+Waves Analytics and Leaderboard tooling - We are developing a visualization and analytics tool used to facilitate leaderboard creation, tabulation and visualization. Please visit https://github.com/seetadev/Web3-Play-Physics/tree/main/Waves-blockchain-postgres-sync/Waves-Analytics-Leaderboard-tooling
+
 
 About: Physical world game simulator, playground -- you can add geometrical shapes, or draw your own shapes, do educational experiments, learn using the WRLDS iot connected balls, mobile SDKs, Waves Blockchain and Rider Smart Contracts, BNB, Covalent endpoints and Multi-chain messaging protocol, and see them come to life with forces (think gravity, Newton!), friction (scrrrrape), and inertia (ahh, slow down!).
 
