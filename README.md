@@ -60,7 +60,7 @@ Impact
 
 Learning Anytime Anywhere:  Physics relate to everyday life. Interactive way of learning helps in better and seamless adoption of science among young kids. 
 
-Mass Reach: Web3 Play Physics is simple app which with the help of connected WRLDS ball, mobile phone and Web3 solutions powered by BNB, Cobvalent and Multi-chain can give real-time experience to various laws in physics like law of motion, energy, force and other key topics of Kinematics.
+Mass Reach: Web3 Play Physics is simple app which with the help of connected WRLDS ball, mobile phone and Web3 solutions powered by Waves and Rider Smart Contracts, BNB, Cobvalent and Multi-chain can give real-time experience to various laws in physics like law of motion, energy, force and other key topics of Kinematics.
 
 Details:
 
